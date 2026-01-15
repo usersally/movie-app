@@ -31,7 +31,7 @@ export default function App() {
       title: "Titanic",
       description: "A love story unfolds aboard the ill-fated RMS Titanic.",
       posterURL:
-        "https://m.media-amazon.com/images/I/71tbalAHYCL._AC_SY679_.jpg",
+        "https://m.media-amazon.com/images/I/71DEh6crcqL._UF1000,1000_QL80_.jpg",
       rating: 7.8,
     },
     {
